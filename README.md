@@ -11,6 +11,8 @@ Remember to use your own google-services.json file, as well add your API key to 
 
 #### -search_screen.dart
 
+Finally, be sure to add both SHA keys/fingerprints for phone verification processes to work.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
